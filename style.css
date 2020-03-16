@@ -2559,7 +2559,8 @@ img {
 
 .stackedit__toc ul ul {
 	color: #888;
-	font-size: .9em
+	font-size: .9em;
+	padding-left: 15px;
 }
 
 .stackedit__toc ul ul a {
